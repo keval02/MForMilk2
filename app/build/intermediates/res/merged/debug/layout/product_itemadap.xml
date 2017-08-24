@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/list_cart"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:padding="10dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_gravity="end"
+                android:gravity="end">
+                <TextView
+                    android:id="@+id/tv_subscription_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:text="product"
+                    android:gravity="start|center"
+                    android:textStyle="bold"
+                    android:textSize="16sp"
+                    android:textColor="#000000"
+                    android:layout_weight="1"/>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:id="@+id/l_qty"
+                android:orientation="horizontal" >
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="20dp"
+                    android:layout_weight="1"
+                    android:gravity="start|center"
+                    android:textStyle="bold"
+                    android:textSize="16sp"
+                    android:textColor="#000000"
+                    android:text="Qty. :"/>
+                <TextView
+                    android:id="@+id/tv_qty"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_weight="1"
+                    android:textStyle="bold"
+                    android:textColor="#000000"
+                    android:gravity="left|center"
+                    android:text="0"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:id="@+id/l_cal"
+
+                android:orientation="horizontal" >
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal"
+                    >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:textColor="#000"
+                        android:textSize="14sp"
+                        android:text="\u20B9"
+                        android:gravity="center"
+                        />
+
+                    <TextView
+                        android:id="@+id/tv_subsellingprice"
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:layout_weight="1"
+                        android:gravity="center_horizontal"
+                        android:text="0"
+                        android:textColor="#000000" />
+
+
+                </LinearLayout>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:text="X"
+                    android:gravity="center_horizontal"
+                    android:textSize="16sp"
+                    android:textColor="#000000"
+                    android:layout_weight="1"
+                    />
+                <TextView
+                    android:id="@+id/tv_product_qty"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:gravity="center_horizontal"
+                    android:text="0"
+                    android:textColor="#000000"
+                    android:layout_weight="1"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_weight="1"
+                    android:text="="
+                    android:textSize="18sp"
+                    android:textColor="#000000"
+                    android:gravity="center_horizontal"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_weight="1"
+                    android:gravity="center_horizontal"
+                    android:textColor="#000000"
+                    android:id="@+id/tv_product_total_cost"
+                    android:text="\u20B90"/>
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#d4d4d4"></View>
+
+    </LinearLayout>
+</LinearLayout>

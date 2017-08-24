@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <stroke
+        android:width="0.5dp"
+        android:color="@color/hint" />
+
+    <!--<solid android:color="#FFA726" />-->
+    <solid android:color="#FFB74D" />
+
+    <corners android:radius="0dp" />
+
+
+    <!--<item >-->
+    <!--<bitmap android:gravity="bottom|right" android:src="@drawable/spinner3" />   // you can use any other image here, instead of default_holo_dark_am-->
+    <!--</item>-->
+
+</shape>

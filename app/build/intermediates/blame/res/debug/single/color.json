@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\92f7c2ba4bbdcd5d7455736686783eedb589694d\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\mcv_text_date_light.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\4e7742a55fd08935c52dfa0906bd795fced20fd4\\output\\res\\color\\mcv_text_date_light.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\mcv_text_date_dark.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\4e7742a55fd08935c52dfa0906bd795fced20fd4\\output\\res\\color\\mcv_text_date_dark.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\mcv_text_date_light.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\dfbc1001e5dc29fc6e1db63fd63373e855f67e0a\\output\\res\\color\\mcv_text_date_light.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\99af3145142141f2f99b0459afc9c71ebc00c3ec\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\mcv_text_date_dark.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\dfbc1001e5dc29fc6e1db63fd63373e855f67e0a\\output\\res\\color\\mcv_text_date_dark.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\99af3145142141f2f99b0459afc9c71ebc00c3ec\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\92f7c2ba4bbdcd5d7455736686783eedb589694d\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    }
+]

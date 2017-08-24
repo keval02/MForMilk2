@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/2859e8bf80babba5b54940a8ceeef4b8ff83a97a/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/2859e8bf80babba5b54940a8ceeef4b8ff83a97a/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.daimajia.androidanimations/library/1.1.2/9d626b5d4cca8ddffe74ab43972559b751cd92bd/library-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

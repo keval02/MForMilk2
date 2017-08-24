@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    android:background="@android:color/transparent"
+    android:gravity="center"
+  >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:foregroundGravity="center"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <!--<ImageView-->
+            <!--android:id="@+id/img"-->
+             <!--android:layout_gravity="center"-->
+            <!--android:layout_width="70dp"-->
+            <!--android:layout_height="70dp"-->
+            <!--android:src="@drawable/gif" />-->
+
+        <com.wang.avi.AVLoadingIndicatorView
+            android:id="@+id/avi"
+            android:layout_gravity="center"
+
+            android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/AVLoadingIndicatorView"
+        android:visibility="visible"
+            android:gravity="center"
+        app:indicatorName="SquareSpinIndicator"
+        app:indicatorColor="@color/colorPrimary"
+        />
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:id="@+id/img1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Loading..."
+            android:layout_gravity="center"
+            android:textSize="15sp"
+            android:textColor="#fff" />
+    </LinearLayout>
+
+</RelativeLayout>

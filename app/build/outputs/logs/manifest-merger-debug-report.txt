@@ -1,0 +1,286 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:2:1-88:12
+	package
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:9:22-66
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:12:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:16:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:18:5-82
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:18:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:21:22-75
+uses-permission#android.permission.INTERNET
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:23:22-76
+protected-broadcast
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:25:26-76
+supports-screens
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:27:5-33:40
+	android:largeScreens
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:29:9-36
+	android:smallScreens
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:32:9-36
+	android:normalScreens
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:30:9-37
+	android:xlargeScreens
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:33:9-37
+	android:resizeable
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:31:9-34
+	android:anyDensity
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:28:9-34
+application
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:35:5-86:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] C:\Users\NWSPL-17\.android\build-cache\9405dea4c413ba6c5efa78ca7af7649bd841e37f\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\NWSPL-17\.android\build-cache\99af3145142141f2f99b0459afc9c71ebc00c3ec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\NWSPL-17\.android\build-cache\20468aa0f20c93598c9781782c87abc77920048d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\NWSPL-17\.android\build-cache\ef04aba660c0d329c5b8168d96fa2bc95176ec0c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.daimajia.easing:library:1.0.0] C:\Users\NWSPL-17\.android\build-cache\102328ba86ee7bfeb747095ac5b3ed7c77a26319\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\NWSPL-17\.android\build-cache\75c7870f26d35f7056c8d970af66ede6919f18f4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\NWSPL-17\.android\build-cache\a1bf81b67b125da5d94bf58de3e6bb126e02b57f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\NWSPL-17\.android\build-cache\18494dc487d8bbb1a383d1a6affa17432fc114f4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\NWSPL-17\.android\build-cache\4e7742a55fd08935c52dfa0906bd795fced20fd4\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\NWSPL-17\.android\build-cache\2153d419b9afc6574240e84108eab3df227c10f3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\NWSPL-17\.android\build-cache\d1c6c349c1158ad399603f533abe1700086949a8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\NWSPL-17\.android\build-cache\ba529331881c8147550e9fd05509531d5ae126f3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\NWSPL-17\.android\build-cache\b2548d5e6ef9165a141ca1ad8d9f0f4a7bc367f5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\NWSPL-17\.android\build-cache\19cb3522978ec45f341e29dedff20e9380d10f77\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\NWSPL-17\.android\build-cache\27435bad4b0673790dab46e7b556f669e26d1c0b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.pkmmte.view:circularimageview:1.1] C:\Users\NWSPL-17\.android\build-cache\a79e9a0f9bda007d12f4be9a958d3800db58e658\output\AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:41:9-35
+	android:label
+		ADDED from [com.daimajia.easing:library:1.0.0] C:\Users\NWSPL-17\.android\build-cache\102328ba86ee7bfeb747095ac5b3ed7c77a26319\output\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:40:9-54
+	android:allowBackup
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:37:9-35
+	android:icon
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:38:9-42
+		REJECTED from [com.daimajia.easing:library:1.0.0] C:\Users\NWSPL-17\.android\build-cache\102328ba86ee7bfeb747095ac5b3ed7c77a26319\output\AndroidManifest.xml:13:9-45
+	android:largeHeap
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:39:9-33
+	android:theme
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:42:9-40
+	tools:replace
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:43:9-37
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:36:9-33
+activity#nivida.com.mformilk.MainActivity
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:44:9-47:50
+	android:screenOrientation
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:46:13-49
+	android:theme
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:47:13-47
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:45:13-41
+activity#nivida.com.mformilk.SplashScreen
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:48:9-57:20
+	android:screenOrientation
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:50:13-49
+	android:theme
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:51:13-47
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:49:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:55:27-74
+activity#nivida.com.mformilk.MobileNoScreen
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:58:9-61:50
+	android:screenOrientation
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:60:13-49
+	android:theme
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:61:13-47
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:59:13-43
+activity#nivida.com.mformilk.OTPScreen
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:62:9-65:50
+	android:screenOrientation
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:64:13-49
+	android:theme
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:65:13-47
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:63:13-38
+activity#nivida.com.mformilk.PersonalDetails
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:66:9-69:50
+	android:screenOrientation
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:68:13-49
+	android:theme
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:69:13-47
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:67:13-44
+activity#nivida.com.mformilk.HomeActivity
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:70:9-73:50
+	android:screenOrientation
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:72:13-49
+	android:theme
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:73:13-47
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:71:13-41
+activity#nivida.com.mformilk.SubscriptionTab.AddSubscription
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:74:9-76:49
+	android:screenOrientation
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:75:13-49
+	android:theme
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:76:13-47
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:74:19-66
+activity#nivida.com.mformilk.SubscriptionTab.CheckOut
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:77:9-79:50
+	android:screenOrientation
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:78:13-49
+	android:theme
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:79:13-47
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:77:19-59
+activity#nivida.com.mformilk.SubscriptionTab.SubscriptionDetails
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:80:9-82:49
+	android:screenOrientation
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:81:13-49
+	android:theme
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:82:13-47
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:80:19-70
+activity#nivida.com.mformilk.Navigation.EditProfile
+ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:83:9-85:59
+	android:screenOrientation
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:84:13-49
+	android:theme
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:85:13-47
+	android:name
+		ADDED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:83:19-57
+uses-sdk
+INJECTED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] C:\Users\NWSPL-17\.android\build-cache\9405dea4c413ba6c5efa78ca7af7649bd841e37f\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\NWSPL-17\.android\build-cache\6d1c491e793038886945343904c6915f6bcec83b\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:25.3.1] C:\Users\NWSPL-17\.android\build-cache\99af3145142141f2f99b0459afc9c71ebc00c3ec\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\NWSPL-17\.android\build-cache\20468aa0f20c93598c9781782c87abc77920048d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\NWSPL-17\.android\build-cache\ef04aba660c0d329c5b8168d96fa2bc95176ec0c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.daimajia.easing:library:1.0.0] C:\Users\NWSPL-17\.android\build-cache\102328ba86ee7bfeb747095ac5b3ed7c77a26319\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\NWSPL-17\.android\build-cache\16c64d69303aca7ba43d1dd45f0828c20bc1f058\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.baoyz.actionsheet:library:1.1.7] C:\Users\NWSPL-17\.android\build-cache\6b87270346d7ce10313f33a18403f449afcdfc2b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\NWSPL-17\.android\build-cache\75c7870f26d35f7056c8d970af66ede6919f18f4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\NWSPL-17\.android\build-cache\a1bf81b67b125da5d94bf58de3e6bb126e02b57f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\NWSPL-17\.android\build-cache\18494dc487d8bbb1a383d1a6affa17432fc114f4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.daimajia.androidanimations:library:1.1.2] C:\Users\NWSPL-17\.android\build-cache\2859e8bf80babba5b54940a8ceeef4b8ff83a97a\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidviewhover:library:1.0.4] C:\Users\NWSPL-17\.android\build-cache\bedbb0469d1db5df615b17448e8f18d57aec6a79\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\NWSPL-17\.android\build-cache\5b358edb0b4f0df9cfb8efe55d01acea4dbde522\output\AndroidManifest.xml:20:5-43
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\NWSPL-17\.android\build-cache\4e7742a55fd08935c52dfa0906bd795fced20fd4\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\NWSPL-17\.android\build-cache\2153d419b9afc6574240e84108eab3df227c10f3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\NWSPL-17\.android\build-cache\d1c6c349c1158ad399603f533abe1700086949a8\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\NWSPL-17\.android\build-cache\ba529331881c8147550e9fd05509531d5ae126f3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\NWSPL-17\.android\build-cache\b2548d5e6ef9165a141ca1ad8d9f0f4a7bc367f5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\NWSPL-17\.android\build-cache\19cb3522978ec45f341e29dedff20e9380d10f77\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\NWSPL-17\.android\build-cache\27435bad4b0673790dab46e7b556f669e26d1c0b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.pkmmte.view:circularimageview:1.1] C:\Users\NWSPL-17\.android\build-cache\a79e9a0f9bda007d12f4be9a958d3800db58e658\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\NWSPL-17\.android\build-cache\99af3145142141f2f99b0459afc9c71ebc00c3ec\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\NWSPL-17\.android\build-cache\99af3145142141f2f99b0459afc9c71ebc00c3ec\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\NWSPL-17\.android\build-cache\20468aa0f20c93598c9781782c87abc77920048d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\NWSPL-17\.android\build-cache\ef04aba660c0d329c5b8168d96fa2bc95176ec0c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\NWSPL-17\.android\build-cache\75c7870f26d35f7056c8d970af66ede6919f18f4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\NWSPL-17\.android\build-cache\a1bf81b67b125da5d94bf58de3e6bb126e02b57f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\NWSPL-17\.android\build-cache\18494dc487d8bbb1a383d1a6affa17432fc114f4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\NWSPL-17\.android\build-cache\5b358edb0b4f0df9cfb8efe55d01acea4dbde522\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\NWSPL-17\.android\build-cache\2153d419b9afc6574240e84108eab3df227c10f3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\NWSPL-17\.android\build-cache\d1c6c349c1158ad399603f533abe1700086949a8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\NWSPL-17\.android\build-cache\ba529331881c8147550e9fd05509531d5ae126f3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\NWSPL-17\.android\build-cache\b2548d5e6ef9165a141ca1ad8d9f0f4a7bc367f5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\NWSPL-17\.android\build-cache\19cb3522978ec45f341e29dedff20e9380d10f77\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\NWSPL-17\.android\build-cache\27435bad4b0673790dab46e7b556f669e26d1c0b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\NWSPL-17\.android\build-cache\99af3145142141f2f99b0459afc9c71ebc00c3ec\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\NWSPL-17\.android\build-cache\99af3145142141f2f99b0459afc9c71ebc00c3ec\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\MyAndroidProjects\AndroidStudioProjects\MForMilk2\app\src\main\AndroidManifest.xml:2:1-88:12 reason: com.imanoweb.calendarview requested WRITE_EXTERNAL_STORAGE

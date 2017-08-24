@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group0">
+
+        <item android:title="Profile"
+            android:id="@+id/nav_item_profile"
+            android:icon="@drawable/about"/>
+    </group>
+
+    <group android:id="@+id/group1">
+
+     <item android:title="About Us"
+          android:id="@+id/nav_item_about"
+          android:icon="@drawable/about"/>
+    </group>
+
+    <group android:id="@+id/group2">
+    <item android:title="Your Orders"
+          android:id="@+id/nav_item_orders"
+          android:icon="@drawable/order"/>
+    </group>
+
+
+    <group android:id="@+id/group3">
+    <item android:title="Rates"
+          android:id="@+id/nav_item_rates"
+          android:icon="@drawable/rates"/>
+    </group>
+
+    <group android:id="@+id/group4">
+    <item android:title="FAQ"
+        android:id="@+id/nav_item_faq"
+        android:icon="@drawable/faq"/>
+    </group>
+
+    <group android:id="@+id/group5">
+    <item android:title="Offers"
+        android:id="@+id/nav_item_offers"
+        android:icon="@drawable/offer"/>
+    </group>
+
+
+    <group android:id="@+id/group6">
+    <item android:title="Contact Us"
+        android:id="@+id/nav_item_contact"
+        android:icon="@drawable/contact"/>
+    </group>
+
+    <group android:id="@+id/group7">
+    <item android:title="Feedback"
+        android:id="@+id/nav_item_feedback"
+        android:icon="@drawable/feedback"/>
+    </group>
+
+    <group android:id="@+id/group8">
+    <item android:title="Reviews"
+        android:id="@+id/nav_item_reviews"
+        android:icon="@drawable/review"/>
+    </group>
+
+    <group android:id="@+id/group9">
+    <item android:title="Tearm and condition"
+        android:id="@+id/nav_item_termandcondition"
+        android:icon="@drawable/terms"/>
+    </group>
+
+    <group android:id="@+id/group10">
+    <item android:title="Alerts notification"
+        android:id="@+id/nav_item_alert"
+        android:icon="@drawable/notification"/>
+    </group>
+
+    <group android:id="@+id/group11">
+    <item android:title="Contact Delivery Boy"
+        android:id="@+id/nav_item_deliveryboy"
+        android:icon="@drawable/deliveryboy"/>
+    </group>
+
+</menu>

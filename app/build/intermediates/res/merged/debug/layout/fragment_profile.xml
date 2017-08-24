@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@color/white"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/toolbar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true"
+            app:contentScrim="?attr/colorPrimary"
+            app:expandedTitleMarginEnd="64dp"
+            app:expandedTitleMarginStart="48dp"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <com.pkmmte.view.CircularImageView
+                        android:id="@+id/profile_pic"
+                        android:layout_width="160dp"
+                        android:layout_height="160dp"
+                        android:layout_gravity="center"
+                        android:padding="5dp"
+                        android:src="@drawable/noprofileimg"
+                        app:border="true"
+                        app:border_color="#EEEEEE"
+                        app:border_width="4dp"
+                        app:shadow="true" />
+                    <ImageView
+                        android:id="@+id/edit_image"
+                        android:layout_width="47dp"
+                        android:layout_height="47dp"
+                        android:layout_gravity="bottom|right"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginRight="4dp"
+                        android:backgroundTint="@color/white"
+                        android:src="@drawable/camera_greenn_bg" />
+
+
+                </FrameLayout>
+
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/txtFirstname"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center|bottom"
+                android:layout_weight="1"
+                android:gravity="center"
+                tools:hint="Name"
+                android:text="Name"
+                android:textColorHint="@color/black"
+                android:textColor="@color/black"
+                android:padding="2dp"
+                android:textSize="20dp" />
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/content_profile" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/fab_margin"
+        app:backgroundTint="@color/colorPrimary"
+        android:src="@drawable/editprofile"
+        app:layout_anchor="@id/app_bar"
+        app:layout_anchorGravity="bottom|end" />
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#fff"
+    >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark"
+        android:padding="3dp">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/calender" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="130dp"
+            android:background="@color/white">
+
+        <nivida.com.mformilk.CustomCalendar.CustomCalendarView
+            android:layout_width="match_parent"
+            android:id="@+id/calendar_view"
+            android:layout_height="wrap_content"
+            android:background="#ffffff">
+
+        </nivida.com.mformilk.CustomCalendar.CustomCalendarView>
+        </LinearLayout>
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/addicon"
+            android:layout_gravity="right"
+            android:layout_marginRight="20dp"
+            android:clickable="true"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/truck"
+            android:layout_gravity="right"
+            android:layout_marginTop="18dp"
+            android:layout_marginRight="10dp"
+            android:clickable="true"/>
+
+
+    </FrameLayout>
+
+
+
+</LinearLayout>

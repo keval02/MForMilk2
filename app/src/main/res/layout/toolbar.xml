@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbarCenterText"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@color/colorPrimary"
+    android:gravity="center"
+    android:textAlignment="center"
+    app:contentInsetStart="0dp">
+
+    <TextView
+        android:id="@+id/actionTitle"
+        style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:paddingRight="32dp"
+        android:textColor="@color/white"
+        android:text="M For Milk"/>
+
+</android.support.v7.widget.Toolbar>

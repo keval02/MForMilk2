@@ -1,0 +1,1042 @@
+[
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_editquantity_background.xml",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\custom_editquantity_background.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minus.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\minus.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expand_arrow_104.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\expand_arrow_104.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\terms.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\terms.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_cart.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\gray_cart.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plus_whit_blue2.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\plus_whit_blue2.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\milk.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\milk.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\headerbg.jpg",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\headerbg.jpg"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\star.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\subscription.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\subscription.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whitearrow.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\whitearrow.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\faq.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\faq.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\offer.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\offer.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_bottom.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\a559f12520a82d880ea40ea47b1f764e16103aed\\output\\res\\drawable\\slt_as_ios7_other_bt_bottom.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_top.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\a559f12520a82d880ea40ea47b1f764e16103aed\\output\\res\\drawable\\slt_as_ios7_other_bt_top.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mformilk.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\mformilk.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editprofileblack.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\editprofileblack.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\subscription.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\subscription.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\refresh.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\review.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\review.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plus.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mformilk.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\mformilk.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\92f7c2ba4bbdcd5d7455736686783eedb589694d\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\otpline.xml",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\otpline.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addsub.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\addsub.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ln_logo.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\ln_logo.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emailid.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\emailid.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addsubs.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\addsubs.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_white.xml",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\edit_text_white.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\99af3145142141f2f99b0459afc9c71ebc00c3ec\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_calender_border.xml",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\green_calender_border.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\92f7c2ba4bbdcd5d7455736686783eedb589694d\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner3.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\spinner3.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\notification.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\faq.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\faq.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_middle.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\6b87270346d7ce10313f33a18403f449afcdfc2b\\output\\res\\drawable\\slt_as_ios7_other_bt_middle.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\noprofileimg.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\noprofileimg.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_greenn_bg.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\camera_greenn_bg.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whitelogo.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\whitelogo.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_cart.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\gray_cart.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whiteicon.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\whiteicon.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\item.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_arrow.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\spinner_arrow.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\headerbg.jpg",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\headerbg.jpg"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\92f7c2ba4bbdcd5d7455736686783eedb589694d\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\99af3145142141f2f99b0459afc9c71ebc00c3ec\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_icon.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\camera_icon.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\notification.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_bottom.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\6b87270346d7ce10313f33a18403f449afcdfc2b\\output\\res\\drawable\\slt_as_ios7_other_bt_bottom.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner3.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\spinner3.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner.xml",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\spinner.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\website.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\website.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_calender_border.xml",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\green_calender_border.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deliveryboy.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\deliveryboy.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plus_whit_blue2.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\plus_whit_blue2.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minuss.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\minuss.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\otpline.xml",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\otpline.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calender.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\calender.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_arrow.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\spinner_arrow.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cheese.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\cheese.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_greenn_bg.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\camera_greenn_bg.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\templogo.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\templogo.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cheese.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\cheese.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ln_logo.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\ln_logo.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editprofile.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\editprofile.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_event.xml",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\spinner_event.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addnew.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\addnew.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\order.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\order.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_green.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\camera_green.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_event.xml",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\spinner_event.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messages.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\messages.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_home.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\home_home.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_next_month_selector.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\e54e1dbf9a03d76519d0dbf596dcbfcac30fd43d\\output\\res\\drawable\\button_next_month_selector.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_previous_month_selector.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\4a735285f340d9c2217899104f66fdb0756a3932\\output\\res\\drawable\\button_previous_month_selector.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\99af3145142141f2f99b0459afc9c71ebc00c3ec\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transparentborder_for_edittext.xml",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\transparentborder_for_edittext.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editprofileblack.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\editprofileblack.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_remove.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\ic_remove.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\92f7c2ba4bbdcd5d7455736686783eedb589694d\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\order.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\order.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_white.xml",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\edit_text_white.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_calender_border.xml",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\red_calender_border.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\personaldetails.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\personaldetails.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\star.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addnew.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\addnew.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_calender_border.xml",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\orange_calender_border.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minuss.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\minuss.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minus.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\minus.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_previous_month_selector.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\e54e1dbf9a03d76519d0dbf596dcbfcac30fd43d\\output\\res\\drawable\\button_previous_month_selector.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\review.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\review.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addsubs.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\addsubs.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addicons.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\addicons.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner.xml",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\spinner.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_top.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\6b87270346d7ce10313f33a18403f449afcdfc2b\\output\\res\\drawable\\slt_as_ios7_other_bt_top.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\website.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\website.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\option.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\option.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minus_white_blue.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\minus_white_blue.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editprofile.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\editprofile.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_single.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\a559f12520a82d880ea40ea47b1f764e16103aed\\output\\res\\drawable\\slt_as_ios7_other_bt_single.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\offer.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\offer.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finalhome.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\finalhome.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calender.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\calender.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_next_month_selector.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\4a735285f340d9c2217899104f66fdb0756a3932\\output\\res\\drawable\\button_next_month_selector.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_green.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\camera_green.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_home.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\home_home.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_remove.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\ic_remove.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\feedback.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\feedback.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_cancel_bt.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\a559f12520a82d880ea40ea47b1f764e16103aed\\output\\res\\drawable\\slt_as_ios7_cancel_bt.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\terms.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\terms.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_greenn.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\camera_greenn.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_cancel_bt.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\6b87270346d7ce10313f33a18403f449afcdfc2b\\output\\res\\drawable\\slt_as_ios7_cancel_bt.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addicon.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\addicon.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\personaldetails.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\personaldetails.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minus_white_blue.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\minus_white_blue.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_icon.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\camera_icon.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_greenn.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\camera_greenn.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoutfinal.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\logoutfinal.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\99af3145142141f2f99b0459afc9c71ebc00c3ec\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finalhome.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\finalhome.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logoutfinal.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\logoutfinal.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deliveryboy.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\deliveryboy.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addsub.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\addsub.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_underline.xml",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\black_underline.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_middle.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\a559f12520a82d880ea40ea47b1f764e16103aed\\output\\res\\drawable\\slt_as_ios7_other_bt_middle.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\otpbtn.xml",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\otpbtn.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rates.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\rates.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\circle.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\item.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_calender_border.xml",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\red_calender_border.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slt_as_ios7_other_bt_single.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\6b87270346d7ce10313f33a18403f449afcdfc2b\\output\\res\\drawable\\slt_as_ios7_other_bt_single.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\option.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\option.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emailid.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\emailid.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\templogo.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\templogo.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\truck.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\truck.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\truck.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\truck.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transparentborder_for_edittext.xml",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\transparentborder_for_edittext.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_editquantity_background.xml",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\custom_editquantity_background.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\refresh.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\92f7c2ba4bbdcd5d7455736686783eedb589694d\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\otpbtn.xml",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\otpbtn.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_calender_border.xml",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\orange_calender_border.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\milk.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\milk.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addicons.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\addicons.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\circle.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messages.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\messages.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plus.png",
+        "source": "E:\\NividaApps\\MForMilk2\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whitelogo.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\whitelogo.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\99af3145142141f2f99b0459afc9c71ebc00c3ec\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rates.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\rates.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\noprofileimg.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\noprofileimg.png"
+    },
+    {
+        "merged": "E:\\NividaApps\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\prince\\.android\\build-cache\\3514358b704a16a33ccedd21bcec1901c10ee8ee\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_underline.xml",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\black_underline.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expand_arrow_104.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\expand_arrow_104.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whitearrow.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\whitearrow.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addicon.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\addicon.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whiteicon.png",
+        "source": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\src\\main\\res\\drawable\\whiteicon.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProjects\\AndroidStudioProjects\\MForMilk2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\NWSPL-17\\.android\\build-cache\\75c7870f26d35f7056c8d970af66ede6919f18f4\\output\\res\\drawable\\notification_icon_background.xml"
+    }
+]
